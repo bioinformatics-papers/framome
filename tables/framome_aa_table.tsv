@@ -1,0 +1,140 @@
+sample	cancer_type	frame_class	novel_aa	sum
+BRE001	TN Breast	Gene Fusion	58	328
+BRE001	TN Breast	Hidden Frame	270	328
+BRE002	TN Breast	Gene Fusion	876	2284
+BRE002	TN Breast	Hidden Frame	1389	2284
+BRE002	TN Breast	Indel	19	2284
+BRE003	TN Breast	Gene Fusion	40	60
+BRE003	TN Breast	Hidden Frame	16	60
+BRE003	TN Breast	Indel	4	60
+BRE004	TN Breast	Gene Fusion	134	708
+BRE004	TN Breast	Hidden Frame	558	708
+BRE004	TN Breast	Indel	16	708
+BRE005	TN Breast	Gene Fusion	163	950
+BRE005	TN Breast	Hidden Frame	562	950
+BRE005	TN Breast	Indel	225	950
+BRE006	TN Breast	Gene Fusion	105	277
+BRE006	TN Breast	Hidden Frame	172	277
+BRE007	TN Breast	Gene Fusion	610	1681
+BRE007	TN Breast	Hidden Frame	990	1681
+BRE007	TN Breast	Indel	81	1681
+BRE008	TN Breast	Gene Fusion	42	181
+BRE008	TN Breast	Hidden Frame	139	181
+COL001	Colon	Gene Fusion	251	644
+COL001	Colon	Hidden Frame	360	644
+COL001	Colon	Indel	33	644
+COL002	Colon	Gene Fusion	48	192
+COL002	Colon	Hidden Frame	33	192
+COL002	Colon	Indel	111	192
+COL003	Colon	Gene Fusion	9	29
+COL003	Colon	Hidden Frame	20	29
+GBM001	Glioblastoma	Gene Fusion	334	649
+GBM001	Glioblastoma	Hidden Frame	202	649
+GBM001	Glioblastoma	Indel	113	649
+GBM002	Glioblastoma	Gene Fusion	359	858
+GBM002	Glioblastoma	Hidden Frame	499	858
+GBM003	Glioblastoma	Gene Fusion	778	1290
+GBM003	Glioblastoma	Hidden Frame	512	1290
+GBM004	Glioblastoma	Gene Fusion	352	535
+GBM004	Glioblastoma	Hidden Frame	168	535
+GBM004	Glioblastoma	Indel	15	535
+GBM005	Glioblastoma	Gene Fusion	488	1785
+GBM005	Glioblastoma	Hidden Frame	1226	1785
+GBM005	Glioblastoma	Indel	71	1785
+GBM006	Glioblastoma	Gene Fusion	11	48
+GBM006	Glioblastoma	Indel	37	48
+HAN001	Head&Neck	Gene Fusion	68	108
+HAN001	Head&Neck	Hidden Frame	30	108
+HAN001	Head&Neck	Splice	10	108
+HAN002	Head&Neck	Gene Fusion	36	404
+HAN002	Head&Neck	Hidden Frame	308	404
+HAN002	Head&Neck	Indel	60	404
+HAN003	Head&Neck	Gene Fusion	93	109
+HAN003	Head&Neck	Indel	16	109
+HAN004	Head&Neck	Indel	15	15
+HAN005	Head&Neck	Hidden Frame	2	54
+HAN005	Head&Neck	Indel	37	54
+HAN005	Head&Neck	Stoploss	15	54
+LUN002	Non-Small Cell Lung Cancer	Gene Fusion	47	324
+LUN002	Non-Small Cell Lung Cancer	Hidden Frame	262	324
+LUN002	Non-Small Cell Lung Cancer	Indel	15	324
+LUN004	Non-Small Cell Lung Cancer	Hidden Frame	86	316
+LUN004	Non-Small Cell Lung Cancer	Indel	230	316
+LUN005	Non-Small Cell Lung Cancer	Gene Fusion	263	456
+LUN005	Non-Small Cell Lung Cancer	Hidden Frame	56	456
+LUN005	Non-Small Cell Lung Cancer	Indel	137	456
+LUN006	Non-Small Cell Lung Cancer	Gene Fusion	29	46
+LUN006	Non-Small Cell Lung Cancer	Hidden Frame	17	46
+LUN008	Non-Small Cell Lung Cancer	Gene Fusion	847	1901
+LUN008	Non-Small Cell Lung Cancer	Hidden Frame	1008	1901
+LUN008	Non-Small Cell Lung Cancer	Indel	39	1901
+LUN008	Non-Small Cell Lung Cancer	Stoploss	7	1901
+LUN009	Non-Small Cell Lung Cancer	Hidden Frame	209	212
+LUN009	Non-Small Cell Lung Cancer	Indel	3	212
+LUN011	Non-Small Cell Lung Cancer	Gene Fusion	102	553
+LUN011	Non-Small Cell Lung Cancer	Hidden Frame	325	553
+LUN011	Non-Small Cell Lung Cancer	Indel	126	553
+LUN012	Non-Small Cell Lung Cancer	Hidden Frame	4	32
+LUN012	Non-Small Cell Lung Cancer	Splice	28	32
+LUN013	Non-Small Cell Lung Cancer	Gene Fusion	165	1106
+LUN013	Non-Small Cell Lung Cancer	Hidden Frame	430	1106
+LUN013	Non-Small Cell Lung Cancer	Indel	482	1106
+LUN013	Non-Small Cell Lung Cancer	Splice	29	1106
+LUN014	Non-Small Cell Lung Cancer	Hidden Frame	179	265
+LUN014	Non-Small Cell Lung Cancer	Indel	86	265
+LUN015	Non-Small Cell Lung Cancer	Gene Fusion	154	313
+LUN015	Non-Small Cell Lung Cancer	Hidden Frame	31	313
+LUN015	Non-Small Cell Lung Cancer	Indel	128	313
+LUN016	Non-Small Cell Lung Cancer	Gene Fusion	241	619
+LUN016	Non-Small Cell Lung Cancer	Hidden Frame	374	619
+LUN016	Non-Small Cell Lung Cancer	Indel	4	619
+LUN017	Non-Small Cell Lung Cancer	Hidden Frame	78	85
+LUN017	Non-Small Cell Lung Cancer	Indel	7	85
+LUN018	Non-Small Cell Lung Cancer	Gene Fusion	11	180
+LUN018	Non-Small Cell Lung Cancer	Hidden Frame	88	180
+LUN018	Non-Small Cell Lung Cancer	Indel	81	180
+LUN019	Non-Small Cell Lung Cancer	Hidden Frame	46	46
+LUN020	Non-Small Cell Lung Cancer	Gene Fusion	68	129
+LUN020	Non-Small Cell Lung Cancer	Hidden Frame	25	129
+LUN020	Non-Small Cell Lung Cancer	Indel	11	129
+LUN020	Non-Small Cell Lung Cancer	Stoploss	25	129
+LUN021	Non-Small Cell Lung Cancer	Gene Fusion	244	325
+LUN021	Non-Small Cell Lung Cancer	Hidden Frame	45	325
+LUN021	Non-Small Cell Lung Cancer	Indel	36	325
+LUN022	Non-Small Cell Lung Cancer	Hidden Frame	65	65
+LUN023	Non-Small Cell Lung Cancer	Gene Fusion	35	79
+LUN023	Non-Small Cell Lung Cancer	Hidden Frame	44	79
+LUN024	Non-Small Cell Lung Cancer	Hidden Frame	91	103
+LUN024	Non-Small Cell Lung Cancer	Indel	12	103
+LUN025	Non-Small Cell Lung Cancer	Gene Fusion	17	17
+LUN026	Non-Small Cell Lung Cancer	Gene Fusion	67	222
+LUN026	Non-Small Cell Lung Cancer	Hidden Frame	118	222
+LUN026	Non-Small Cell Lung Cancer	Indel	35	222
+LUN026	Non-Small Cell Lung Cancer	Stoploss	2	222
+LUN027	Non-Small Cell Lung Cancer	Gene Fusion	24	53
+LUN027	Non-Small Cell Lung Cancer	Indel	29	53
+LUN028	Non-Small Cell Lung Cancer	Gene Fusion	15	51
+LUN028	Non-Small Cell Lung Cancer	Hidden Frame	11	51
+LUN028	Non-Small Cell Lung Cancer	Indel	25	51
+LUN029	Non-Small Cell Lung Cancer	Hidden Frame	432	479
+LUN029	Non-Small Cell Lung Cancer	Indel	28	479
+LUN029	Non-Small Cell Lung Cancer	Splice	19	479
+PAN001	Pancreas	Gene Fusion	184	529
+PAN001	Pancreas	Hidden Frame	330	529
+PAN001	Pancreas	Indel	15	529
+PAN004	Pancreas	Gene Fusion	79	80
+PAN004	Pancreas	Hidden Frame	1	80
+PAN005	Pancreas	Gene Fusion	303	375
+PAN005	Pancreas	Hidden Frame	56	375
+PAN005	Pancreas	Indel	16	375
+PAN006	Pancreas	Hidden Frame	13	13
+PAN007	Pancreas	Hidden Frame	274	274
+PAN008	Pancreas	Hidden Frame	74	74
+COL004	Colon	NA	0	0
+COL005	Colon	NA	0	0
+LUN001	Non-Small Cell Lung Cancer	NA	0	0
+LUN003	Non-Small Cell Lung Cancer	NA	0	0
+LUN007	Non-Small Cell Lung Cancer	NA	0	0
+LUN010	Non-Small Cell Lung Cancer	NA	0	0
+PAN002	Pancreas	NA	0	0
+PAN003	Pancreas	NA	0	0
