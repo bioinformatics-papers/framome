@@ -1,0 +1,62 @@
+cancer_type	purity	sv	snv	indel	id
+Head&neck	0.32	160	55456	635	HAN001
+Glioblastoma	0.71	394	6711	534	GBM003
+Non small cell lung cancer	0.28	118	79809	4491	LUN021
+Glioblastoma	0.52	452	8781	769	GBM002
+Non small cell lung cancer	0.33	226	56637	3236	LUN014
+Non small cell lung cancer	0.93	9	2041	99	LUN010
+Non small cell lung cancer	0.61	82	13125	920	LUN017
+Head&neck	0.36	106	45403	3289	HAN002
+Head&neck	0.15	114	5577	222	HAN003
+Non small cell lung cancer	0.28	45	37768	2439	LUN004
+Glioblastoma	0.53	345	11840	740	GBM004
+Pancreas	0.22	132	4720	699	PAN001
+Non small cell lung cancer	0.15	94	63431	1938	LUN012
+Non small cell lung cancer	0.29	137	37655	2691	LUN018
+Non small cell lung cancer	0.14	97	8200	449	LUN002
+Glioblastoma	0.84	196	6055	568	GBM005
+Pancreas	0.31	39	1985	119	PAN004
+Non small cell lung cancer	0.17	44	17187	1144	LUN025
+Non small cell lung cancer	0.18	122	45690	2522	LUN005
+Pancreas	0.19	110	4720	376	PAN002
+Pancreas	0.25	25	3930	195	PAN008
+Colon	0.83	1220	27232	5310	COL001
+Non small cell lung cancer	0.65	491	54889	4487	LUN011
+Non small cell lung cancer	0.16	171	21453	1704	LUN020
+Non small cell lung cancer	0.17	324	25976	1732	LUN023
+Non small cell lung cancer	0.14	53	18505	1334	LUN006
+Colon	0.73	138	23662	2706	COL002
+Colon	0.47	149	14012	1843	COL003
+Non small cell lung cancer	0.17	391	29485	2149	LUN016
+Pancreas	0.23	176	5049	448	PAN005
+Colon	0.61	409	23976	4041	COL004
+Head&neck	0.24	23	18447	636	HAN005
+Non small cell lung cancer	0.18	35	28652	1758	LUN027
+Non small cell lung cancer	0.6	97	23327	1900	LUN003
+Pancreas	0.43	81	3849	419	PAN007
+Colon	0.27	130	15355	2024	COL005
+Non small cell lung cancer	0.44	9	1209	74	LUN019
+Non small cell lung cancer	0.5	350	418406	24160	LUN013
+Non small cell lung cancer	0.87	178	38756	2459	LUN026
+Pancreas	0.16	3	208	65	PAN003
+Pancreas	0.24	24	2659	185	PAN006
+Glioblastoma	0.87	324	7093	659	GBM001
+Non small cell lung cancer	0.19	223	11297	556	LUN009
+Non small cell lung cancer	0.79	9	3048	149	LUN007
+Glioblastoma	0.74	42	3672	536	GBM006
+Non small cell lung cancer	0.35	147	13704	1005	LUN022
+Head&neck	0.16	29	6625	86	HAN004
+Non small cell lung cancer	0.26	170	43711	3319	LUN028
+Non small cell lung cancer	0.54	722	36289	2627	LUN008
+Non small cell lung cancer	0.37	8	567	94	LUN001
+Non small cell lung cancer	0.76	143	10926	1250	LUN024
+Non small cell lung cancer	0.45	215	26267	1316	LUN015
+TNbreast	0.34	449	9764	742	BRE001
+TNbreast	0.54	246	5400	1121	BRE003
+TNbreast	0.59	1159	12484	2155	BRE004
+TNbreast	0.31	699	22101	1811	BRE005
+TNbreast	0.34	2417	9518	699	BRE002
+TNbreast	0.28	310	6106	534	BRE006
+TNbreast	0.69	445	8763	1806	BRE007
+TNbreast	0.56	413	6147	800	BRE008
+Non small cell lung cancer	0.85	262	48226	3912	LUN029

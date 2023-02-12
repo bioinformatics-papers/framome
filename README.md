@@ -1,2 +1,3 @@
-# Framome
-Code to reproduce the figures of the framome paper.
+# Framome paper figures
+
+Code to reproduce the figures of the Framome paper.
